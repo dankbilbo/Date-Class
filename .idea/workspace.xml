@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c0e0175-01cc-43c6-9698-93af8b707161" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Week 3-JS/Game Bài/img/2C.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 3-JS/Game Bài/img/2D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 3-JS/Game Bài/img/2H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 3-JS/Game Bài/img/2S.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 3-JS/Game Bài/img/3C.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 3-JS/Game Bài/img/3D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 3-JS/Game Bài/img/3H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week 3-JS/Game Bài/img/3S.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/Bài tập JS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Thuc Hanh Nhung JS/NhungJS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Thuc Hanh Nhung JS/ThucHanhNhung.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Thuc Hanh khai bao va su dung bien/KhaiBaoBien3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Thuc Hanh khai bao va su dung bien/KhaiBaoBienBai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Thuc Hanh khai bao va su dung bien/KhaiBaoBienBai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 3-JS/Ứng dụng quản lý sản phẩm/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week 3-JS/Ứng dụng quản lý sản phẩm/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 3-JS/Ứng dụng quản lý sản phẩm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week 3-JS/Ứng dụng quản lý sản phẩm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 3-JS/Ứng dụng quản lý sản phẩm/productsForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week 3-JS/Ứng dụng quản lý sản phẩm/productsForm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 3-JS/Ứng dụng quản lý sản phẩm/productsManagement.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week 3-JS/Ứng dụng quản lý sản phẩm/productsManagement.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../[Thực hành] Hiển thị đầu ra.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../[Thực hành] Hiển thị đầu ra.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1j7blupCnR89G02D0VWbqcuq4fM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../Program Files/nodejs" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="C:\Program Files\nodejs" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Date.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Date.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Date.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c0e0175-01cc-43c6-9698-93af8b707161" name="Default Changelist" comment="" />
+      <created>1603158270946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603158270946</updated>
+      <workItem from="1603158291866" duration="5336000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="494" y="124" key="FileChooserDialogImpl" timestamp="1603161569225">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="494" y="124" key="FileChooserDialogImpl/62.0.1304.768@62.0.1304.768" timestamp="1603161569225" />
+    <state width="1283" height="198" key="GridCell.Tab.0.bottom" timestamp="1603163771512">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1283" height="198" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1603163771512" />
+    <state width="1283" height="198" key="GridCell.Tab.0.center" timestamp="1603163771512">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1283" height="198" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1603163771512" />
+    <state width="1283" height="198" key="GridCell.Tab.0.left" timestamp="1603163771512">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1283" height="198" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1603163771512" />
+    <state width="1283" height="198" key="GridCell.Tab.0.right" timestamp="1603163771512">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1283" height="198" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1603163771512" />
+    <state width="1283" height="239" key="GridCell.Tab.1.bottom" timestamp="1603161899768">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1283" height="239" key="GridCell.Tab.1.bottom/62.0.1304.768@62.0.1304.768" timestamp="1603161899768" />
+    <state width="1283" height="239" key="GridCell.Tab.1.center" timestamp="1603161899767">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1283" height="239" key="GridCell.Tab.1.center/62.0.1304.768@62.0.1304.768" timestamp="1603161899767" />
+    <state width="1283" height="239" key="GridCell.Tab.1.left" timestamp="1603161899767">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1283" height="239" key="GridCell.Tab.1.left/62.0.1304.768@62.0.1304.768" timestamp="1603161899767" />
+    <state width="1283" height="239" key="GridCell.Tab.1.right" timestamp="1603161899767">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1283" height="239" key="GridCell.Tab.1.right/62.0.1304.768@62.0.1304.768" timestamp="1603161899767" />
+    <state width="1283" height="239" key="GridCell.Tab.2.bottom" timestamp="1603161899768">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1283" height="239" key="GridCell.Tab.2.bottom/62.0.1304.768@62.0.1304.768" timestamp="1603161899768" />
+    <state width="1283" height="239" key="GridCell.Tab.2.center" timestamp="1603161899768">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1283" height="239" key="GridCell.Tab.2.center/62.0.1304.768@62.0.1304.768" timestamp="1603161899768" />
+    <state width="1283" height="239" key="GridCell.Tab.2.left" timestamp="1603161899768">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1283" height="239" key="GridCell.Tab.2.left/62.0.1304.768@62.0.1304.768" timestamp="1603161899768" />
+    <state width="1283" height="239" key="GridCell.Tab.2.right" timestamp="1603161899768">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1283" height="239" key="GridCell.Tab.2.right/62.0.1304.768@62.0.1304.768" timestamp="1603161899768" />
+    <state width="1283" height="239" key="GridCell.Tab.3.bottom" timestamp="1603161899768">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1283" height="239" key="GridCell.Tab.3.bottom/62.0.1304.768@62.0.1304.768" timestamp="1603161899768" />
+    <state width="1283" height="239" key="GridCell.Tab.3.center" timestamp="1603161899768">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1283" height="239" key="GridCell.Tab.3.center/62.0.1304.768@62.0.1304.768" timestamp="1603161899768" />
+    <state width="1283" height="239" key="GridCell.Tab.3.left" timestamp="1603161899768">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1283" height="239" key="GridCell.Tab.3.left/62.0.1304.768@62.0.1304.768" timestamp="1603161899768" />
+    <state width="1283" height="239" key="GridCell.Tab.3.right" timestamp="1603161899768">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1283" height="239" key="GridCell.Tab.3.right/62.0.1304.768@62.0.1304.768" timestamp="1603161899768" />
+    <state x="215" y="28" key="SettingsEditor" timestamp="1603161571219">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="215" y="28" key="SettingsEditor/62.0.1304.768@62.0.1304.768" timestamp="1603161571219" />
+    <state x="431" y="191" key="jetbrains.nodejs.interpreters-dialog" timestamp="1603161452024">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="431" y="191" key="jetbrains.nodejs.interpreters-dialog/62.0.1304.768@62.0.1304.768" timestamp="1603161452024" />
+  </component>
+</project>
